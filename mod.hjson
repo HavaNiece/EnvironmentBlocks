@@ -1,7 +1,10 @@
-name: havaniece-mod
-displayName: The HavaNiece Mod
+name: environmentblocks-mod
+displayName: Environment Blocks
 author: HavaNiece
-description: Quality Of Life Mod
+description: "
+Quality of life mod.
+Allows you to place some environment blocks on liquids and over other environment walls.
+"
 version: 1.0
 minGameVersion: 146
 hidden: true

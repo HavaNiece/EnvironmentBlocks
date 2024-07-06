@@ -1,6 +1,6 @@
 # EnvironmentBlocks
 
-![logo](https://github.com/HavaNiece/EnvironmentBlocks/blob/main/logo.png)
+![icon](https://github.com/HavaNiece/EnvironmentBlocks/blob/main/icon.png)
 
 Quality of life mod derived from
 

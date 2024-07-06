@@ -4,6 +4,7 @@
 	"alwaysReplace": true,
 	"health": 100,
 	"destructible": false,
+        "placeableLiquid": "true",
         "requirements": [
 ],
 "category": "effect",

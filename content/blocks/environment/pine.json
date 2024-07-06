@@ -1,0 +1,11 @@
+{
+	"name": "pine",
+	"description": "Wall.",
+	"alwaysReplace": true,
+	"health": 100,
+	"destructible": false,
+        "requirements": [
+],
+"category": "effect",
+"research": "core-zone",
+}

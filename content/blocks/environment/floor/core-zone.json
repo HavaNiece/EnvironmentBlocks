@@ -1,0 +1,10 @@
+{
+	"name": "core zone",
+	"buildVisibility": "shown",
+	"category": "effect",
+"requirements": [
+],
+"research": "ap2",
+"placeableLiquid": "true",
+"buildCostMultiplier": "0",
+}

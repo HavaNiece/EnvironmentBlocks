@@ -1,0 +1,10 @@
+{
+	"name": "titanium",
+	"buildVisibility": "shown",
+	"category": "effect",
+	"placeableLiquid": "true",
+  "requirements": [
+  ],
+  "research": "ore-coal",
+"buildCostMultiplier": "0",
+}

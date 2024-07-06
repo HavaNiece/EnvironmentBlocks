@@ -1,0 +1,10 @@
+{
+	"name": "magma rock",
+	"buildVisibility": "shown",
+	"category": "effect",
+	"placeableLiquid": "true",
+  "requirements": [
+  ],
+  "research": "molten-slag",
+"buildCostMultiplier": "0",
+}

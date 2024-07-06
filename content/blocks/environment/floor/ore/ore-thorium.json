@@ -1,0 +1,10 @@
+{
+	"name": "thorium",
+	"buildVisibility": "shown",
+	"category": "effect",
+	"placeableLiquid": "true",
+  "requirements": [
+  ],
+  "research": "ore-titanium",
+"buildCostMultiplier": "0",
+}

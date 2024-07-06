@@ -1,0 +1,11 @@
+{
+	"name": "cryofluid",
+	"buildVisibility": "shown",
+	"category": "effect",
+	"placeableLiquid": "true",
+	"liquidMultiplier": "1",
+  "requirements": [
+  ],
+  "research": "pine",
+"buildCostMultiplier": "0",
+}

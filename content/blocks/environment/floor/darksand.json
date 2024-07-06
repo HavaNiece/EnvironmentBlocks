@@ -1,0 +1,10 @@
+{
+	"name": "dark sand",
+	"buildVisibility": "shown",
+	"category": "effect",
+	"placeableLiquid": "true",
+  "requirements": [
+  ],
+  "research": "magmarock",
+"buildCostMultiplier": "0",
+}

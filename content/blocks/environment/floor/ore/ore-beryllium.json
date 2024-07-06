@@ -1,0 +1,10 @@
+{
+	"name": "beryllium",
+	"buildVisibility": "shown",
+	"category": "logic",
+	"placeableLiquid": "true",
+  "requirements": [
+  ],
+  "research": "yellow-stone",
+"buildCostMultiplier": "0",
+}
